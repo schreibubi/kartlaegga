@@ -1,9 +1,8 @@
-MIDlet-1: RunGPS,,org.schreibubi.mapviewer.RunGPSMidletLWUIT
-MIDlet-Jar-URL: RunGPS2.jar
-MicroEdition-Configuration: CLDC-1.1
-MIDlet-Version: 1.0.0
-MIDlet-Name: RunGPS2
-MIDlet-Description: RunGPS
-MIDlet-Vendor: Joerg Werner
-MicroEdition-Profile: MIDP-2.0
+MIDlet-1: Kartlaegga,,org.schreibubi.kartlaegga.mapviewer.RunGPSMidletLWUIT
+MIDlet-Jar-URL: Kartlaegga.jar
+MIDlet-Name: Kartlaegga
 MIDlet-Permissions: javax.microedition.io.Connector.http
+MIDlet-Vendor: Joerg Werner
+MIDlet-Version: 1.0.31
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
